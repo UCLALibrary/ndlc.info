@@ -11,9 +11,6 @@ process:
 visible: true
 ---
 
-### Program proposals were accepted through December 15, 2015
-### Poster session proposals were accepted through February 29, 2016
+## [NDLC Accepted Program](Program_Proposal.pdf)
 
-
-<!--<iframe src="https://docs.google.com/forms/d/1rndfTu2T35LLyb0bZhw1NDP3Mk9aweELKA_fhSpsPjg/viewform?embedded=true
-"width="1000" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>-->
+## [Poster Proposals](Poster_Proposal.pdf)
