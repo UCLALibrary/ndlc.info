@@ -9,8 +9,8 @@ process:
     markdown: true
     twig: true
 visible: true
+template: sessions
+content:
+    items:
+      '@page': /program/sessions
 ---
-
-## [Accepted Programs](Program_Proposal.pdf)
-
-## [Accepted Posters](Poster_Proposal.pdf)
