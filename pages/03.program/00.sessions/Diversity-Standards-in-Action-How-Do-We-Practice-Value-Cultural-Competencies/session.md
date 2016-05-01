@@ -2,6 +2,7 @@
 title: Diversity Standards in Action: How Do We Practice & Value Cultural Competencies?
 taxonomy:
   format: World Cafe method
+  category: session
   presenters:
     - name: Mario Macías
       title: Librarian, Los Angeles Pierce College

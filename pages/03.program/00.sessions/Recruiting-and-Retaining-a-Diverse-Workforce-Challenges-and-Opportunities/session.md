@@ -2,6 +2,7 @@
 title: Recruiting and Retaining a Diverse Workforce: Challenges and Opportunities
 taxonomy:
   format: Roundtable
+  category: session
   presenters:
     - name: Cheryl Beredo
       title: Kheel Center Director, Cornell University

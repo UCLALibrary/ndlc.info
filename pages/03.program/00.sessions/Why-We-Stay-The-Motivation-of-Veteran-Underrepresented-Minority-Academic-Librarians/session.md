@@ -2,6 +2,7 @@
 title: Why We Stay: The Motivation of Veteran Underrepresented Minority Academic Librarians
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Antonia P. Olivas, Ed.D.
       title: Education & Sociology Librarian, California State University San Marcos
@@ -9,6 +10,8 @@ taxonomy:
       title: Director of Libraries, Medical University of South Carolina
     - name: Binh P. Le
       title: Associate Librarian/2015-16 Administrative Fellow, The Pennsylvania State University
+    - name: Oscar Baeza
+      title: Librarian/Associate Professor, El Paso Community College
   track:
     - Personnel, Management, and Organization
 ---

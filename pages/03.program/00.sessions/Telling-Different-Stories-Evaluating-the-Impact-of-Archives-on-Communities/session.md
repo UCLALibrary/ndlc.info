@@ -2,6 +2,7 @@
 title: Telling Different Stories: Evaluating the Impact of Archives on Communities
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Michelle Caswell
 	  title: Assistant Professor of Archival Studies, Department of Information Studies, UCLA

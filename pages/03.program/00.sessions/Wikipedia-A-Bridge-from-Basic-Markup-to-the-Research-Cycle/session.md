@@ -2,6 +2,7 @@
 title: Wikipedia: A Bridge from Basic Markup to the Research Cycle
 taxonomy:
   format: Workshop
+  category: session
   presenters:
     - name: Lia Friedman	
 	  title: Learning Services Director, UC San Diego

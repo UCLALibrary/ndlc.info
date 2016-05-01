@@ -2,6 +2,7 @@
 title: ‘Let Us Work Together’: Academic Libraries and Social Justice on Campus
 taxonomy:
   format: Workshop
+  category: session
   presenters:
     - name: Sara Arnold-Garza
 	  title: Research & Instruction Librarian, Towson University

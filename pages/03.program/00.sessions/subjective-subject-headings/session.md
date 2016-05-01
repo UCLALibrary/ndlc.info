@@ -1,9 +1,8 @@
 ---
 title: '#subjective subject headings'
-subtitle: Cataloging for Diversity: Limits in Standards and Patron Discovery
-text: This session features two presentations on cataloging issues when taking diversity and inclusion into account.
 taxonomy:
   format: Individual Presentations
+  category: session
   presenters:
     - name: Sara Howard
 	  title: Reference Librarian, Wesleyan University
@@ -15,4 +14,5 @@ _The problematic nature of cataloging standards is nothing new to those interest
 
 **Presented with [Faster Access or Perfect Metadata? The Balance in Indexing and Cataloging Oral Histories](/program/sessions/Faster-Access-or-Perfect-Metadata-The-Balance-in-Indexing-and-Cataloging-Oral-Histories) **
 
-Session titled **Cataloging for Diversity: Limits in Standards and Patron Discovery**
+Session titled **Cataloging for Diversity: Limits in Standards and Patron Discovery** This session features two presentations on cataloging issues when taking diversity and inclusion into account.
+

@@ -2,6 +2,7 @@
 title: Being the Bridge: Exploring the Roles, Challenges, and Future Directions of Diversity Committees in Libraries
 taxonomy:
   format: Roundtable
+  category: session
   presenters: 
     - name: Don P. Jason III
 	  title: Clinical Informationist, University of Cincinnati Libraries

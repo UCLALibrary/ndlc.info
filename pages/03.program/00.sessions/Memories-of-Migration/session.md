@@ -2,6 +2,7 @@
 title: Memories of Migration
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Jessica Bell	
 	  title: Assistant Project Director, Santa Ana Public Library, City of Santa Ana

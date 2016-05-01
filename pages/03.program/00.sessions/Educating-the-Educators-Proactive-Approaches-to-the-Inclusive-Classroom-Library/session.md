@@ -2,6 +2,7 @@
 title: Educating the Educators: Proactive Approaches to the Inclusive Classroom Library
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Shannon Simpson
 	  title: Student Engagement and Information Fluency Librarian, Johns Hopkins University 

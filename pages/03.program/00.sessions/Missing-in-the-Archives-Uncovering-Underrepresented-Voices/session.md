@@ -2,6 +2,7 @@
 title: Missing in the Archives: Uncovering Underrepresented Voices
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Eleanor Brown
 	  title: Head, Special Collections Research Center, North Carolina State University

@@ -2,6 +2,7 @@
 title: Scholarly Communication as a Tool for Social Justice and Diversity
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Charlotte Roh
 	  title: Scholarly Communication Librarian, University of San Francisco

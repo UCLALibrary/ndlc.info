@@ -24,8 +24,8 @@
                         <th>Format</th>
                     </tr>
                     {% for session in sessions %}
-                        <tr>
-                            <td><a href="{{ base_url_absolute }}{{ session.route }}">{{ session.title }}</a></td>
+                       <tr>
+                            <td><a href="{{ base_url_absolute }}{{ session.route }}">{{ session.title }} </a></td>
                             <td>
                                 <ul>
                                     {% for presenter in session.header.taxonomy.presenters %}

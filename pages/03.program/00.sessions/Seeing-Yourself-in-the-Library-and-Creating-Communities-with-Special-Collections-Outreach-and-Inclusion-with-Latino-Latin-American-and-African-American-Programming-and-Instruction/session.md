@@ -2,6 +2,7 @@
 title: Seeing Yourself in the Library and Creating Communities with Special Collections: Outreach and Inclusion with Latino, Latin American, and African American Programming and Instruction
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Cristine Paschild
 	  title: Head of Special Collections, Portland State University Library

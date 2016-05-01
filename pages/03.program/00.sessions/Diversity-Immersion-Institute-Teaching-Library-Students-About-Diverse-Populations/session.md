@@ -2,15 +2,12 @@
 title: Diversity Immersion Institute: Teaching Library Students About Diverse Populations
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Tahirah Akbar-Williams
       title: Education and Information Studies Librarian, University of Maryland, College Park
     - name: Cynthia Sorrell
       title: Arabic & Persian Studies Librarian, Assistant Manager of Collections University of Maryland, College Park
-    - name: Wanda Brown
-      title: Director of Library Services, Winston-Salem State University
-    - name: Hubert Womack
-      title: Instruction and Outreach Librarian, Wake Forest University - Z. Smith Reynolds Library
   track:
     - Personnel, Management, and Organization
 ---

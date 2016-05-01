@@ -2,6 +2,7 @@
 title: What We Do Matters: KU Libraries and Social Justice
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Sofia Leung
       title: Learning Studio Librarian, University of Kansas

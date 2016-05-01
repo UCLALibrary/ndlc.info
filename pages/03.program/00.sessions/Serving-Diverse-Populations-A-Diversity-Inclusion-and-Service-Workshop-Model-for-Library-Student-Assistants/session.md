@@ -2,11 +2,8 @@
 title: “Serving Diverse Populations”: A Diversity, Inclusion, and Service Workshop Model for Library Student Assistants
 taxonomy:
   format: Panel
+  category: session
   presenters:
-    - name: Tahirah Akbar-Williams
-      title: Education and Information Studies Librarian, University of Maryland, College Park
-    - name: Cynthia Sorrell
-      title: Arabic & Persian Studies Librarian, Assistant Manager of Collections University of Maryland, College Park
     - name: Wanda Brown
       title: Director of Library Services, Winston-Salem State University
     - name: Hubert Womack

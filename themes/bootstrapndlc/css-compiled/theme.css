@@ -261,7 +261,7 @@ ol.breadcrumb {
 body.fixed-nav {
   padding-top: 50px; }
 
-/*top-level menu*/
+/*top-level menu is this*/
 .dropdown-menu {
   background-color: transparent; }
 
@@ -272,7 +272,7 @@ body.fixed-nav {
 .ribbon {
   color: #fff;
   font-family: "Helvetica neue",sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   height: 392px;
   margin: -20px 0 0 -163px;
   overflow: hidden;
@@ -312,12 +312,12 @@ body.fixed-nav {
   line-height: 3; }
 
 .ribbon ul.list-inline li a.sub-head-posters {
-  font-size: 14px;
+  font-size: 16px;
   margin-left: -10px; }
 
-.ribbon li:first-of-type {
-  display: none; }
-
+/*.ribbon ul > li:nth-last-of-type(-n+2) {
+  display: none;
+}*/
 /*tracks*/
 ul.sans-bullets {
   list-style-type: none;
@@ -386,6 +386,10 @@ ul.nav.navbar-nav {
   background: url(../assets/conference_hall_ucla.jpg) no-repeat;
   background-size: 150%; }
 
+.circular-housing {
+  background: url(../assets/sunset-village.png) no-repeat;
+  background-size: 150%; }
+
 .circular-registration {
   background: url(../assets/img-registration.jpg) no-repeat;
   background-size: 150%; }
@@ -402,7 +406,7 @@ ul.nav.navbar-nav {
   background: url(../assets/schedule.jpg) no-repeat;
   background-size: 200%; }
 
-.circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule {
+.circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-housing {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -472,7 +476,7 @@ h3 {
   background-size: 200%; }
 
 .circular-about {
-  background: url(../assets/about.jpg) no-repeat;
+  background: url(../assets/ucla.jpg) no-repeat;
   background-size: 200%; }
 
 .circular-schedule {
@@ -483,7 +487,11 @@ h3 {
   background: url(../assets/pink-audience.jpg) no-repeat;
   background-size: 120%; }
 
-.circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-sess {
+.circular-housing {
+  background: url(../assets/sunset-village.png) no-repeat;
+  background-size: 150%; }
+
+.circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-sess, .circular-housing {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -546,7 +554,7 @@ body {
   width: 100%;
   /* Set the fixed height of the footer here */
   height: 60px;
-  background-color: #f5f5f5; }
+  background-color: #000; }
 
 /* Notice Styles */
 blockquote {
@@ -599,11 +607,11 @@ span.herotext {
   font-family: sans-serif;
   font-size: 130%;
   color: #fff;
-  padding: 30px 0 10px 80px;
+  padding: 1% 0 1% 4%;
   width: 50%;
   line-height: 133%;
-  background: #000;
-  background: rgba(0, 0, 0, 0.5);
+  /* background: #000;
+   background: rgba(0,0,0,0.5);*/
   float: left; }
 
 span.herotext a {
@@ -614,7 +622,6 @@ span.herotext a {
   background-image: url(../assets/hero_bg.jpg);
   background-size: cover;
   background-color: #EEE;
-  height: 360px;
   margin: -20px 0 20px; }
 
 .hero-unit-sm {
@@ -637,7 +644,7 @@ span.herotext a {
 
 .fill {
   width: 100%;
-  height: 307px;
+  height: 295px;
   background-position: center;
   background-size: cover; }
 
@@ -661,8 +668,44 @@ span.herotext a {
 html.js.csstransforms3d body {
   font-family: PT Sans,sans-serif; }
 
+/****sponsors page***/
+body.sponsors {
+  padding-bottom: 0 !important; }
+
+span.sum {
+  font-size: 18px; }
+
+.black-bg {
+  background-color: #110006;
+  margin-top: -20px;
+  padding-top: 20px; }
+
+.black-bg.sp-ally {
+  padding-bottom: 100px; }
+
+h2.sponsor-hd-s, .sponsor-hd-s span.sum {
+  color: #C0C0C0; }
+
+h2.sponsor-hd-g, .sponsor-hd-g span.sum {
+  color: #c5b358; }
+
+h2.sponsor-hd-b, .sponsor-hd-b span.sum {
+  color: #cd7f32;
+  margin: 0;
+  padding-bottom: 20px; }
+
+ul.ally {
+  font-weight: 600;
+  font-size: 21px;
+  margin-bottom: 0;
+  list-style-type: none; }
+
 /**** MEDIA QUERIES****/
 /* Large desktop */
+@media (min-width: 992px) {
+  h2.sponsor-hd-s, h2.sponsor-hd-g {
+    display: block;
+    height: 210px; } }
 @media (min-width: 1024px) and (max-width: 1180px) {
   .hero-unit {
     height: 360px; }
@@ -675,7 +718,7 @@ html.js.csstransforms3d body {
 @media (max-width: 1180px) {
   span.herotext {
     font-size: 100%;
-    padding: 10px; } }
+    padding: 1%; } }
 @media (max-width: 1280px) {
   .circular-sess {
     width: 250px;
@@ -684,6 +727,11 @@ html.js.csstransforms3d body {
   .circular-sess {
     width: 200px;
     height: 200px; } }
+@media (min-width: 1220px) and (max-width: 1420px) {
+  .ribbon {
+    width: 230px;
+    margin-left: -180px;
+    height: 500px; } }
 @media (min-width: 1420px) {
   .ribbon {
     margin-left: -230px;
@@ -726,7 +774,7 @@ html.js.csstransforms3d body {
     height: auto;
     width: auto; }
 
-  .circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-sess {
+  .circular-program, .circular, .circular-registration, .circular-venue, .circular-about, .circular-schedule, .circular-sess, .circular-housing {
     display: none; }
 
   /*introduces hamburger sooner for large menu*/
@@ -766,12 +814,20 @@ html.js.csstransforms3d body {
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 1024px) {
   .hero-unit {
-    height: 250px; }
+    height: 200px; }
 
   span.herotext {
     font-size: 90%;
-    padding-top: 10px;
-    padding-left: 34px; } }
+    padding-top: 1%;
+    padding-left: 5%; } }
+@media (min-width: 1025px) and (max-width: 1240px) {
+  .hero-unit {
+    height: 250px; }
+
+  span.herotext {
+    font-size: 100%;
+    padding-top: 2%;
+    padding-left: 5%; } }
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
   .hero-unit {
@@ -782,7 +838,7 @@ html.js.csstransforms3d body {
 
   span.herotext {
     font-size: 75%;
-    padding-left: 30px; }
+    padding-left: 5%; }
 
   .ribbon ul.list-inline {
     width: 400px; } }
@@ -796,7 +852,7 @@ html.js.csstransforms3d body {
 
   span.herotext {
     font-size: 45%;
-    padding: 10px 25px;
+    padding: 1% 16%;
     line-height: 133%; }
 
   .form-field .col-sm-10 textarea.form-control {
@@ -820,26 +876,29 @@ html.js.csstransforms3d body {
 /*iphone 6 portrait*/
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) {
   .fill {
-    height: 82px; }
+    height: 122px; }
 
   span.herotext {
     font-size: 45%;
-    padding-left: 20px;
-    padding-top: 5px; } }
+    padding-left: 5%;
+    padding-top: 1%; } }
 /*iphone 5 and 5s portrait*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
   .fill {
     height: 75px; }
 
   span.herotext {
-    font-size: 45%;
-    padding-left: 16px; }
+    font-size: 35%;
+    padding-left: 5%; }
 
   h1 {
     font-size: 18px; }
 
   h2 {
-    font-size: 16px; } }
+    font-size: 16px; }
+
+  .container-fluid > .navbar-collapse, .container-fluid > .navbar-header, .container > .navbar-collapse, .container > .navbar-header {
+    margin-right: 5px; } }
 /*iphone 5 and 5s landscape*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
   .fill {
@@ -847,7 +906,7 @@ html.js.csstransforms3d body {
 
   span.herotext {
     font-size: 50%;
-    padding-left: 27px; } }
+    padding-left: 5%; } }
 @media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1080px) {
   /*hide text in table header*/
   .col-md-9 th:nth-child(-n+3) {
@@ -860,6 +919,10 @@ html.js.csstransforms3d body {
 
   .col-md-9 h3 {
     display: none; }
+
+  body.posters .col-md-9 th:before {
+    content: "Poster Sessions";
+    color: #fff; }
 
   body.program .col-md-9 th:before {
     content: "All Session Tracks";
@@ -894,20 +957,25 @@ html.js.csstransforms3d body {
   body.collections-and-access .col-md-9 td:nth-of-type(1):before,
   body.programming-outreach-advocacy .col-md-9 td:nth-of-type(1):before,
   body.personnel-management-organization .col-md-9 td:nth-of-type(1):before,
-  body.challenging-topics .col-md-9 td:nth-of-type(1):before {
+  body.challenging-topics .col-md-9 td:nth-of-type(1):before,
+  body.posters .col-md-9 td:nth-of-type(1):before {
     content: "Title"; }
 
   body.collections-and-access .col-md-9 td:nth-of-type(2):before,
   body.programming-outreach-advocacy .col-md-9 td:nth-of-type(2):before,
   body.personnel-management-organization .col-md-9 td:nth-of-type(2):before,
-  body.challenging-topics .col-md-9 td:nth-of-type(2):before {
+  body.challenging-topics .col-md-9 td:nth-of-type(2):before,
+  body.posters .col-md-9 td:nth-of-type(2):before {
     content: "Presenter(s)"; }
 
   body.collections-and-access .col-md-9 td:nth-of-type(3):before,
   body.programming-outreach-advocacy .col-md-9 td:nth-of-type(3):before,
   body.personnel-management-organization .col-md-9 td:nth-of-type(3):before,
   body.challenging-topics .col-md-9 td:nth-of-type(3):before {
-    content: "Format"; } }
+    content: "Format"; }
+
+  body.posters .col-md-9 td:nth-of-type(3):before {
+    content: "Track"; } }
 /*
 Max width before this PARTICULAR table gets nasty
 This query will take effect for any screen smaller than 760px
@@ -947,5 +1015,54 @@ and also iPads specifically.
 
   .col-md-7 {
     width: 100% !important; } }
+/*larger screens*/
+@media (min-width: 1560px) and (max-width: 1899px) {
+  .hero-unit {
+    height: 400px; }
+
+  .fill {
+    height: 389px; }
+
+  span.herotext {
+    font-size: 200%;
+    padding-left: 5%; } }
+@media (min-width: 1900px) and (max-width: 2481px) {
+  .hero-unit {
+    height: 400px; }
+
+  .fill {
+    height: 450px; }
+
+  span.herotext {
+    font-size: 200%;
+    padding-left: 5%; } }
+@media (min-width: 2480px) and (max-width: 3160px) {
+  .hero-unit {
+    height: 550px; }
+
+  .fill {
+    height: 600px; }
+
+  span.herotext {
+    font-size: 200%;
+    padding-left: 5%; } }
+@media (min-width: 1900px) and (max-width: 3160px) {
+  .hero-unit-sm {
+    height: 160px;
+    margin: -20px 0 20px; } }
+/* Make equal height with table styles */
+/*
+
+@media (min-width: 768px) {
+  .table-row {
+    display: table;
+    table-layout: fixed;
+  }
+
+  .table-row [class^="col-"] {
+    display: table-cell;
+    float: none;
+  }
+}*/
 
 /*# sourceMappingURL=theme.css.map */

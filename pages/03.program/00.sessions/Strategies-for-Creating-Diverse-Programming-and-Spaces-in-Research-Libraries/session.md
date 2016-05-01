@@ -1,7 +1,8 @@
 ---
 title: Strategies for Creating Diverse Programming and Spaces in Research Libraries
 taxonomy:
-  format: Workshop 
+  format: Workshop
+  category: session
   presenters:
     - name: Marian Fragola
 	  title: Director of Program Planning and Outreach, NCSU Libraries

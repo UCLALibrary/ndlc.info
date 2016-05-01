@@ -2,6 +2,7 @@
 title: Maybe We’re the Problem: Bias, Blindspots, and the Politics of Experience
 taxonomy:
   format: Workshop
+  category: session
   presenters: 
     - name: Steve Whitley
 	  title: Visiting Coordinator & Lecturer, Intergroup Dialogue,University of Illinois at Chicago

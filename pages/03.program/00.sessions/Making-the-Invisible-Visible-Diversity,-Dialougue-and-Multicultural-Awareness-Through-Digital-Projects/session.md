@@ -2,6 +2,7 @@
 title: Making the Invisible Visible: Diversity, Dialogue and Multicultural Awareness Through Digital Projects
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Yemisi Dina
 	  title: Associate Librarian/Head of Public Services, Osgoode Hall Law School, York University

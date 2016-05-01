@@ -2,6 +2,7 @@
 title: Bridge Over Troubled Waters: Contesting Oppression and Building Cultural Competence and Empathy in LIS Spaces 
 taxonomy:
   format: Roundtable
+  category: session
   presenters:
     - name: Dr. Nicole A. Cooke
 	  title: Assistant Professor, The Graduate School of Library and Information Science, University of Illinois

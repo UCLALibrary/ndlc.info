@@ -2,6 +2,7 @@
 title: Identity at Play: Exploring Race and Ethnicity in Academic Libraries and Beyond
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Juleah Swanson
       title: Head of Acquisition Services, University of Colorado Boulder

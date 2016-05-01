@@ -1,9 +1,8 @@
 ---
 title: Representing the Un/der-represented: Using Data Visualization to Explore Diversity and Inclusion for Academic Library Collections
-subtitle: Building Diverse and Inclusive Collections Using Assessment and Data Visualization
-text: This session features two presentations on using different assessment methods to create more inclusive library collections.
 taxonomy:
   format: Individual Presentations
+  category: session
   presenters:
     - name: Bobby L. Smiley
 	  title: Digital Scholarship and American History Librarian, Michigan State University Libraries
@@ -16,4 +15,5 @@ _Without institutional knowledge, or recent collections analysis, it is difficul
 **Presented with [Inclusion Through Collection Building: A Study of Foreign Language Collections Usage by 
 International Students, Faculty and Staff](/program/sessions/Inclusion-Through-Collection-Building-A-Study-of-Foreign-Language-Collections-Usage-by-International-Students-Faculty-and-Staff)**
 
-Session titled **Building Diverse and Inclusive Collections Using Assessment and Data Visualization** 
+Session titled **Building Diverse and Inclusive Collections Using Assessment and Data Visualization** This session 
+features two presentations on using different assessment methods to create more inclusive library collections.

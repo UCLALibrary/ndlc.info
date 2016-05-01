@@ -2,6 +2,7 @@
 title: Grow Your Community: An Exploration of Peer Mentoring for People of Color
 taxonomy:
   format: Roundtable/Panel hybrid
+  category: session
   presenters:
     - name: Annie Pho
       title: Inquiry and Instruction Librarian, University of California - Los Angeles

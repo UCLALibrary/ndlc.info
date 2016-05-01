@@ -13,6 +13,8 @@ visible: true
 ---
 
 # Tentative Schedule
+Keynote sessions will take place in the De Neve Plaza Auditorium. Regular program and poster sessions will take place at Carnesale Commons. The pre-conference will be held at the Charles E. Young Research Library.
+ 
 <div>
         <table class="table table-bordered table-striped" (style="width:100%")>
             <thead>

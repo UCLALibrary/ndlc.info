@@ -2,6 +2,7 @@
 title: Discovering and Accommodating the Needs of Target Communities in Academic Libraries
 taxonomy:
   format: Panel/ Lightning Round 
+  category: session
   presenters:
     - name: Raymundo Andrade
 	  title: Programming Librarian, Loyola Marymount University
@@ -19,8 +20,6 @@ taxonomy:
 	- Programming, Outreach, and Advocacy
 
 ---
-_This panel examines how library practices represent racial, gender, and sexual norms through core functions, including collections, instruction, and programming. The presenters analyze how libraries reproduce and resist racism and heteronormativity, and how those productions of knowledge reflect or reject the larger communities. How does your library approach immigrants'/migrants' needs?  How do LGBTQ+ youth evaluate library materials specific to their experience and identity?  How do you include the under-represented in your library's spaces, webpages, and publications?_
-
 _Academic libraries are continuously exploring different methods on how to reach and meet the needs of not only “traditional” students but also target communities to provide a sense of diversity and inclusion._
 
 _•	Andrade and Hazlitt will talk about a pilot project to offer basic computer classes to facilities staff at LMU._

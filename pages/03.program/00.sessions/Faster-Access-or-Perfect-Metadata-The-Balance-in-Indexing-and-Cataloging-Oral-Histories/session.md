@@ -2,6 +2,7 @@
 title: Faster Access or Perfect Metadata? The Balance in Indexing and Cataloging Oral Histories
 taxonomy:
   format: Individual Presentations
+  category: session
   presenters:
     - name: Summer Espinoza
 	  title: Digital Collections Manager, Go for Broke National Education Center
@@ -11,10 +12,7 @@ taxonomy:
 	  title:  Assistant Archivist, Go For Broke National Education Center
   track:
     - Collections and Access
-pages:
-    markdown_extra: true
-    process:
-        markdown: true
+
 ---
 _Go For Broke National Education Center (GFBNEC) is building a mixed-media digital archive of Japanese American 
 military service. The project is utilizing the Oral History Metadata Synchronizer (OHMS) to index oral histories at 

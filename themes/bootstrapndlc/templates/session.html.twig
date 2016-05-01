@@ -8,6 +8,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-1 col-sm-12">
+
         {% block submenu %}
   {% include 'partials/program-submenu.html.twig' %}
 {% endblock %}
@@ -21,6 +22,7 @@
               {% for presenter in header.taxonomy.presenters %}
                 <li>{{ presenter.name }}, <i>{{ presenter.title }}</i></li>
               {% endfor %}
+                <li>{{ header.taxonomy.subtext }}</li>
             </ul>
           <li><strong>Description</strong><br />
             {{ page.content }}

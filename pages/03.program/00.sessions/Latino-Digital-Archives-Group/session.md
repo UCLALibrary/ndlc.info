@@ -2,6 +2,7 @@
 title: Latino Digital Archives Group
 taxonomy:
   format: Roundtable
+  category: session
   presenters:
     - name: Lillian Castillo-Speed
 	  title: Head Librarian, Ethnic Studies Library, University of California, Berkeley
@@ -10,7 +11,7 @@ taxonomy:
 	- name: Kathryn Blackmer Reyes
 	  title: Librarian, San Jose State University
 	- name: Richard Chabran
-	  title: Adjunct Instructor, Adjunct Instructor, California State University, Los Angeles
+	  title: Adjunct Instructor, California State University, Los Angeles
   track:
     - Collections and Access
 	

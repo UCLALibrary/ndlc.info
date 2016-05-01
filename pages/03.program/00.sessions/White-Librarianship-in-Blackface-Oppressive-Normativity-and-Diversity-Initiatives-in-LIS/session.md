@@ -2,6 +2,7 @@
 title: White Librarianship in Blackface: Oppressive Normativity and Diversity Initiatives in LIS
 taxonomy:
   format: Individual Presentation
+  category: session
   presenters: 
     - name: April Hathcock
 	  title: Scholarly Communication Librarian, New York University

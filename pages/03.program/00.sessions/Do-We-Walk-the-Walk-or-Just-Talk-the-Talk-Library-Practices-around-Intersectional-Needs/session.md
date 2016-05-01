@@ -2,6 +2,7 @@
 title: Do We Walk the Walk, or Just Talk the Talk? Library Practices around Intersectional Needs
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Melissa Villa-Nicholas
 	  title: Ph.D. student, University of Illinois Urbana-Champaign, Graduate School of Library and Information Science

@@ -2,6 +2,7 @@
 title: Inclusion Through Collection Building: A Study of Foreign Language Collections Usage by International Students, Faculty and Staff 
 taxonomy:
   format: Individual Presentations
+  category: session
   presenters:
     - name: Andrea Malone
 	  title: Foreign Languages & Ethnic Studies, University of Houston

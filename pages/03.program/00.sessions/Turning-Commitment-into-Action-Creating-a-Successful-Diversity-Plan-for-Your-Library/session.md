@@ -2,8 +2,9 @@
 title: Turning Commitment into Action: Creating a Successful Diversity Plan for Your Library
 taxonomy:
   format: Workshop
+  category: session
   presenters:
-    - name: Kathryn Kjae
+    - name: Kathryn Kjaer
       title: Head, Library Human Resources, University of California, Irvine Libraries
     - name: Sheree Baugh
       title: Marketing & Donor Relations Assistant, University of California, Irvine Libraries

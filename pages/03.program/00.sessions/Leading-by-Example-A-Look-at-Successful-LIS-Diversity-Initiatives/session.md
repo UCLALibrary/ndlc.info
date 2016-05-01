@@ -2,6 +2,7 @@
 title: Leading by Example: A Look at Successful LIS Diversity Initiatives
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Denise Kane
       title: Reference & Instruction Librarian, University of California Riverside

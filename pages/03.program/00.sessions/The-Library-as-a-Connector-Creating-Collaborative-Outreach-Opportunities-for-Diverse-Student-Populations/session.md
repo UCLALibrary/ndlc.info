@@ -2,6 +2,7 @@
 title: The Library as a Connector: Creating Collaborative Outreach Opportunities for Diverse Student Populations
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Amanda Melilli	
 	  title: Head Curriculum Materials Library, UNLV

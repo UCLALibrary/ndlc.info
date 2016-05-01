@@ -2,6 +2,7 @@
 title: Services and Studies to Support First-Generation College Students
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Stacy Brinkman
 	  title: Art & Architecture Librarian, Miami University

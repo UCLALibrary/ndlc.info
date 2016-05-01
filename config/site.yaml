@@ -4,5 +4,4 @@ author:
   email:
 metadata:
     description:
-taxonomies:
-  - track
+taxonomies: [track, category]

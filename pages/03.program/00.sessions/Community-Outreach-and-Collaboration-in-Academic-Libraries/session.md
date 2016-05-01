@@ -2,6 +2,7 @@
 title: Community Outreach and Collaboration in Academic Libraries
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Lae’l Hughes-Watkins
       title: University Archivist, Assistant, Kent State University

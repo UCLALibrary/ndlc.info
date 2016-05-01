@@ -2,6 +2,7 @@
 title: Making Space for Diversity: Inclusiveness in Library Makerspaces
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: James Cheng
 	  title: NCSU Libraries Fellow, North Carolina State University Libraries

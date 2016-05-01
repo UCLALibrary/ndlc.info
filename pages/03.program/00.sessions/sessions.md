@@ -1,8 +1,11 @@
 ---
+title: "PROGRAM"
+body_class: posters
 published: true
 visible: false
+template: sessions
 content:
     items:
-        '@page': /program
+        '@taxonomy.category': session
+        '@page': '/program/sessions'
 ---
-

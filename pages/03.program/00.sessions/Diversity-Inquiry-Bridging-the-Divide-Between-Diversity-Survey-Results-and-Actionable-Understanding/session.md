@@ -2,6 +2,7 @@
 title: Diversity Inquiry – Bridging the Divide Between Diversity Survey Results and Actionable Understanding
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Cristela Garcia-Spitz
       title: Digital Library Development Project Manager, ClimateQUAL Implementation Team Co-Chair, UC San Diego Library

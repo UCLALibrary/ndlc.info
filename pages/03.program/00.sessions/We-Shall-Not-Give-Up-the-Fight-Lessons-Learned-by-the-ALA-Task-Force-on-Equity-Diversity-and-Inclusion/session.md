@@ -2,6 +2,7 @@
 title: We Shall Not Give Up the Fight: Lessons Learned by the ALA Task Force on Equity, Diversity, and Inclusion
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Melissa Cardenas-Dow
       title: Reference & Instruction Librarian, University of California, Riverside

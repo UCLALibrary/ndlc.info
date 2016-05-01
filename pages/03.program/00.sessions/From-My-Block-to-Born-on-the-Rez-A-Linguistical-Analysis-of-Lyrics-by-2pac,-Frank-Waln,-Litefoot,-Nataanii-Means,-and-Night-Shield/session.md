@@ -2,6 +2,7 @@
 title: From “My Block” to “Born on the Rez”: A Linguistic Analysis of lyrics by 2Pac, Frank Waln, Litefoot, Nataanii Means, and Night Shield
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Teresa Y. Neely, Ph.D.
 	  title: Associate Professor, College of the University Libraries & Learning Sciences

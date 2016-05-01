@@ -2,6 +2,7 @@
 title: ACRL Diversity Standards Revisited: Intersectional Approach to Cultural Competency
 taxonomy:
   format: Roundtable
+  category: session
   presenters:
     - name: Kenny Garcia
       title: Reference and Instruction Librarian, California State University - Monterey Bay

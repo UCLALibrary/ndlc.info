@@ -2,12 +2,13 @@
 title: Promoting Academic Success Among Student Veterans through Libraries
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Win Shih	
 	  title: Director of Integrated Library Systems, University of Southern California
 	- name: Eduardo Tinoco
 	  title: Business Librarian, University of Southern California
-	- name: Micheal Habata
+	- name: Michael Habata
 	  title: Librarian, Los Angeles Pierce College
 	- name: Lisa Valdez
 	  title: Librarian, Los Angeles Pierce College

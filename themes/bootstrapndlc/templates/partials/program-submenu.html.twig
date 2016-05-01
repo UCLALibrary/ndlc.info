@@ -1,13 +1,12 @@
 <div class="ribbon">
     <ul class="list-inline">
-        <a class="sub-head" <a href="{{ base_url_absolute }}/program/">ALL
-            SESSIONS</a><br />
+        {#<a class="sub-head" <a href="{{ base_url_absolute }}/program/">LIVE SESSIONS</a><br />#}
 
-        {% for p in page.find('/program').children if p != page %} <li><a href="{{p.url}}/">{{ p
-                .title}}</a></li>
+        {% for p in page.find('/program').children if p != page %} <li><a href="{{p.url}}/">{{ p.title}}</a></li>
+            <div style="clear: both;"></div>
         {% endfor %}
-<br />
-        <li><a class="sub-head-posters" <a href="{{ base_url_absolute }}/program/Poster_Proposal.pdf">Accepted
-            Posters (pdf)</a></li>
+
+       {#<br /><a href="{{ base_url_absolute }}/program/posters/">POSTER SESSIONS</a><br /></li>#}
+    </ul>
     </ul>
 </div>

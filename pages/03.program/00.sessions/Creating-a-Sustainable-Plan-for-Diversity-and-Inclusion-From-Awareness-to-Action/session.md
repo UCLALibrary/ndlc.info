@@ -2,6 +2,7 @@
 title: Creating a Sustainable Plan for Diversity and Inclusion: From Awareness to Action
 taxonomy:
   format: Panel
+  category: session
   presenters:
     - name: Cat Phan
 	  title: Digital Services Librarian, University of Wisconsin-Madison

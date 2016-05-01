@@ -2,6 +2,7 @@
 title: The Structure of Accessible Content: Building a Bridge to Understanding
 taxonomy:
   format: Individual Presentation
+  category: session
   presenters:
     - name: Kelli Ham
 	  title: Consumer Health and Technology Coordinator, National Network of Libraries of Medicine, Pacific Southwest Region, UCLA Biomedical Library 
