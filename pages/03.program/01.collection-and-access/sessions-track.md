@@ -7,5 +7,8 @@ template: sessions-track
 content:
     items:
       '@taxonomy': {category: [session], track: [Collections and Access]}
+    order:
+      by: folder
+      dir: asc
        
 ---

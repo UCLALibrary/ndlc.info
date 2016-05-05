@@ -7,5 +7,7 @@ template: sessions-track
 content:
     items:
       '@taxonomy': {category: [session], track: ['Personnel, Management, and Organization']}
-        
+    order:
+      by: folder
+      dir: asc
 ---

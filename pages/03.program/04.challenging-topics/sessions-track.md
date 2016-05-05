@@ -7,5 +7,7 @@ template: sessions-track
 content:
     items:
       '@taxonomy': {category: [session], track: [Challenging Topics]}
-        
+    order:
+      by: folder
+      dir: asc
 ---

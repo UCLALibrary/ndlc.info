@@ -8,4 +8,7 @@ content:
     items:
         '@taxonomy.category': session
         '@page': '/program/sessions'
+    order:
+        by: folder
+        dir: asc
 ---

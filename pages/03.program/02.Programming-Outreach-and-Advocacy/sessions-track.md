@@ -7,7 +7,9 @@ template: sessions-track
 content:
     items:
       '@taxonomy': {category: [session], track: ['Programming, Outreach, and Advocacy']}
-      
+    order:
+      by: folder
+      dir: asc
 ---
 
 
