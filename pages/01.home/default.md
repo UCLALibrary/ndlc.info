@@ -11,6 +11,6 @@ Under the theme of “Bridges to Inclusion,” it endeavors to highlight issues 
 
 # [Register Now](../05.registration/registration.md)
 
-## [Keynote Speakers](../02.keynote/about.md)
+## [Keynote Speakers](../02.keynote/keynote.md)
 
 ## [Reserve Your Room Now](../06.housing/housing.md)
