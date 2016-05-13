@@ -1,5 +1,5 @@
 {% extends 'partials/base.html.twig' %}
-{% set posters = page.collection({'content.items':{'@taxonomy.category': 'poster'},'order': {'by': 'default', 'dir':'asc'}}) %}
+{% set sessions = page.collection() %}
 {% block content %}
 
 <!-- Begin page content -->
