@@ -1,5 +1,5 @@
 {% extends 'partials/base.html.twig' %}
-{% set sessions = page.collection() %}
+{% set posters = page.collection() %}
 {% block content %}
 
 <!-- Begin page content -->
@@ -24,8 +24,8 @@
                     <th width=40%>Presenter(s)</th>
                     <th>Track</th>
                 </tr>
-
-                {% for session in taxonomy.findTaxonomy({'category':'poster'}) %}
+                {% for session in posters %}
+                {#{% for session in taxonomy.findTaxonomy({'category':'poster'}) %}#}
 
                     <tr>
                         <td><a href="{{ base_url_absolute }}{{ session.route }}">{{ session.title }}</a></td>

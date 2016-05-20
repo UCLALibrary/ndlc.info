@@ -11,7 +11,7 @@ visible: true
 # Housing on the UCLA campus
 ## <a href="https://uclarh.webhotel.microsdc.us/bp/search_rooms.jsp?groupCode=LIB6A&checkinYear=2016&checkinDay=9&checkinMonth=8&numberOfNights=4&numberOfRooms=1&numberOfAdults=1" target="_blank">Reserve your room now</a>
 
-Conference participants will be staying at Sunset Village on the UCLA campus.
+Conference participants will be staying at Sunset Village and DeNeve Plaza on the UCLA campus.
 
 On-campus housing:
 + Room rate is $139/night, one person per room (private room with private bathroom). 

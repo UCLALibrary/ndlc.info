@@ -8,15 +8,13 @@ metadata:
 process:
 markdown: 
   extra: true
-
 visible: true
 ---
-
 # Tentative Schedule
 Keynote sessions will take place in the De Neve Plaza Auditorium. Regular program and poster sessions will take place at Carnesale Commons. The pre-conference will be held at the Charles E. Young Research Library.
  
-<div>
-        <table class="table table-bordered table-striped" (style="width:100%")>
+ <div>
+         <table class="table table-bordered table-striped" (style="width:100%")>
             <thead>
                 <tr>
                     <th>Wednesday, August 10</th>
@@ -30,7 +28,7 @@ Keynote sessions will take place in the De Neve Plaza Auditorium. Regular progra
                 </tr>
                 <tr>
                     <td>9:00 AM - 4:45 PM</td>
-                    <td>Pre-conference</td>
+                   <td><a href="http://ndlc.info/program/pre-conference">Pre-conference</a></td>
                 </tr>
                 <tr>
                     <td>4:00 PM</td>
@@ -40,30 +38,25 @@ Keynote sessions will take place in the De Neve Plaza Auditorium. Regular progra
                     <td>4:00 PM - 5:00 PM</td>
                     <td>UCLA Campus Tour (optional)</td>
                 </tr>
-        
                      <td>5:00 PM - 7:00 PM</td>
-                    
                      <td>Open House &#8212; <a href="http://www.library.ucla.edu/yrl" 
                      target="_blank">Charles E. Young Research Library</a></td>
-                   </tr>
-                                   
-                 </tbody>
-                            <thead>
-                                <tr>
-                                    <th>Thursday, August 11</th>
-                                    <th>Conference Full Day Program &amp; Reception</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-      
-                    <tr>
-                     <td>8:00 AM - 12:00 PM</td>
-                     <td>Registration</td>
-                   </tr>
-          <tr>
+                </tr>
+                </tbody>
+                <thead>
+                <tr>
+                <th>Thursday, August 11</th>
+                <th>Conference Full Day Program &amp; Reception</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                   <td>8:00 AM - 12:00 PM</td>
+                   <td>Registration</td>
+                </tr>
+                <tr>
                   <td>9:00 AM - 10:15 AM</td>
                   <td>Welcome and Opening Keynote</td>
-              
                 <tr>
                     <td>10:30 AM - 11:45 AM</td>
                     <td> Sessions</td>
@@ -96,8 +89,7 @@ Keynote sessions will take place in the De Neve Plaza Auditorium. Regular progra
                 </tr>
             </thead>
             <tbody>
-               
-                <tr>
+                 <tr>
                     <td>9:00 AM - 10:15 AM</td>
                     <td>Sessions</td>
                 </tr>
@@ -113,7 +105,6 @@ Keynote sessions will take place in the De Neve Plaza Auditorium. Regular progra
                     <td>1:15 PM - 2:30 PM</td>
                     <td>Sessions</td>
                 </tr>
-               
                 <tr>
                     <td>2:45 PM - 4:00 PM</td>
                     <td> Sessions</td>
@@ -136,7 +127,6 @@ Keynote sessions will take place in the De Neve Plaza Auditorium. Regular progra
                 </tr>
             </tbody>
         </table>
-</div>
-
+        </div>
 </body>
 </html>

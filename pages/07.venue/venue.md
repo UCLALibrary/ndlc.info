@@ -19,8 +19,7 @@ Special events will be held at the Charles E. Young Research Library and the Pow
 ### <a href="http://maps.ucla.edu/campus/" target="_blank">Campus Map</a><br /> 
 ### <a href="https://main.transportation.ucla.edu/campus-parking" target="_blank">Parking</a>
 
-Parking costs $12/day. Conference participants should park in the Sunset Village parking lot. Visit the UCLA Transportation page for more information on transportation and parking.
-<a href="https://main.transportation.ucla.edu/" target="_blank">UCLA Transportation page</a> page for more information on campus parking and transportation services.
+Parking costs $12/day. Conference participants should park in the Sunset Village parking lot. Visit the <a href="https://main.transportation.ucla.edu/" target="_blank">UCLA Transportation page</a> page for more information on campus parking and transportation services.
 
 ### Directions from LAX
 
