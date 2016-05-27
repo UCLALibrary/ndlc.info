@@ -265,6 +265,7 @@ body.fixed-nav {
 .dropdown-menu {
   background-color: transparent; }
 
+/*equal heights cols on sponsors page*/
 .caret {
   display: none; }
 
@@ -676,21 +677,27 @@ span.sum {
   font-size: 18px; }
 
 .black-bg {
-  background-color: #110006;
+  background-color: #a8a8a8;
   margin-top: -20px;
-  padding-top: 20px; }
+  padding-top: 20px;
+  padding-bottom: 20px !important; }
+
+.row.sp-champ.clearfix {
+  background-color: #E0E0E0;
+  margin-bottom: 20px; }
 
 .black-bg.sp-ally {
   padding-bottom: 100px; }
 
-h2.sponsor-hd-s, .sponsor-hd-s span.sum {
-  color: #C0C0C0; }
+h2.sponsor-hd-s {
+  color: #303030; }
 
-h2.sponsor-hd-g, .sponsor-hd-g span.sum {
-  color: #c5b358; }
+h2.sponsor-hd-g {
+  color: #303030;
+  margin-bottom: -15px; }
 
-h2.sponsor-hd-b, .sponsor-hd-b span.sum {
-  color: #cd7f32;
+h2.sponsor-hd-b {
+  color: #303030;
   margin: 0;
   padding-bottom: 20px; }
 
@@ -700,12 +707,15 @@ ul.ally {
   margin-bottom: 0;
   list-style-type: none; }
 
+ul.ally li {
+  text-indent: -1em;
+  padding-left: 1em; }
+
+.sponsors .sp-champ .col-sm-6, .sponsors .sp-champ .col-md-2 {
+  padding-bottom: 20px; }
+
 /**** MEDIA QUERIES****/
 /* Large desktop */
-@media (min-width: 992px) {
-  h2.sponsor-hd-s, h2.sponsor-hd-g {
-    display: block;
-    height: 210px; } }
 @media (min-width: 1024px) and (max-width: 1180px) {
   .hero-unit {
     height: 360px; }
@@ -718,7 +728,10 @@ ul.ally {
 @media (max-width: 1180px) {
   span.herotext {
     font-size: 100%;
-    padding: 1%; } }
+    padding: 1%; }
+
+  ul.ally li {
+    font-size: 16px; } }
 @media (max-width: 1280px) {
   .circular-sess {
     width: 250px;
