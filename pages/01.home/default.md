@@ -4,10 +4,14 @@ metadata:
     description: Save the Date for the National Diversity in Libraries Conference (NDLC) 2016 UCLA, Los Angeles, California where library staff discuss issues relating to diversity.
     keywords: diversity, conference, NDLC, UCLA, Los Angeles, Save, Date, national, 2016, what is diversity, diversity committee, keynote, speakers, Chris Bourg, April Hathcock, Lakota Harden,
     author: UCLA Library
+markdown:
+    extra: true
 ---
 ## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
 
 ## [Main Conference is at capacity&mdash;Waitlist Information](../registration)
+
+## <a href="http://www.arl.org/news/arl-news/4046" target="_blank">ARL announces travel award recipients</a>
 
 <p class="lead">The National Diversity in Libraries Conference (NDLC '16), co-sponsored by the UCLA Library and the 
 Association of Research Libraries (ARL), will take place on the UCLA campus on August 10 - 13, 2016. </p>
