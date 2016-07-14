@@ -7,9 +7,9 @@ metadata:
 markdown:
     extra: true
 ---
-## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
+## The conference and the waitlist are at capacity.
 
-## [Main Conference is at capacity&mdash;Waitlist Information](../registration)
+## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
 
 ## <a href="http://www.arl.org/news/arl-news/4046" target="_blank">ARL announces travel award recipients</a>
 

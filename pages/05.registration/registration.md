@@ -6,6 +6,7 @@ metadata:
     keywords: 'diversity, conference, NDLC, UCLA, Los Angeles, Save, Date, national, 2016, what is diversity, diversity committee, registration, fee, cost'
     author: 'UCLA Library'
 ---
+### The conference and the waitlist are at capacity.
 
 **We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
 and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** If 
@@ -24,5 +25,5 @@ Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You 
 + Meals are included in our award-winning residential dining halls for those staying in conference housing.
 + Lunch tickets (all you can eat, approximately $15) will be available for purchase in the dining halls for those who 
 are not staying in conference housing. (It is highly recommended that conference attendees eat in the dining halls in order not to miss any of the afternoon sessions.)
- 
-<iframe src="https://docs.google.com/forms/d/1PxVV9pantFzaQW7EykzORH90THRn4mBIYYaeBm_t2zc/viewform?embedded=true#start=embed" width="760" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+
