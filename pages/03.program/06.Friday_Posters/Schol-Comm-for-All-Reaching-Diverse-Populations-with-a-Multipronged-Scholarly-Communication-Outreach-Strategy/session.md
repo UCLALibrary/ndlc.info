@@ -7,7 +7,7 @@ taxonomy:
     - name: Vicki Gruzynski
 	  title: Teaching and Learning Librarian, Worcester State University	
     - name: Jennifer Chan
-	  title: Scholarly Communications Librarian, University of Colorado Boulder
+	  title: Scholarly Communication Librarian, UCLA
   track:
     - Programming, Outreach, and Advocacy
 

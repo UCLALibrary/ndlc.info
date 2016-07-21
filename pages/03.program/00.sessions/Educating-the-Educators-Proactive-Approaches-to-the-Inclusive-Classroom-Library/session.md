@@ -1,5 +1,5 @@
 ---
-title: Educating the Educators: Proactive Approaches to the Inclusive Classroom Library
+title: Educating the Educators: Proactive Approaches to the Inclusive Classroom
 taxonomy:
   format: Panel
   category: session

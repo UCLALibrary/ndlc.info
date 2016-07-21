@@ -6,7 +6,7 @@ taxonomy:
   presenters:
     - name: Jessica Bell	
 	  title: Assistant Project Director, Santa Ana Public Library, City of Santa Ana
-	- name: José Guillermo Naranjo
+	- name: Cheryl A. Eberly
 	  title: Community Outreach Specialist, and Linguistic Liaison, Santa Ana Public Library, City of Santa Ana
 	- name: David Prieto
 	  title: Technology Services Coordinator, Santa Ana Public Library, City of Santa Ana

@@ -11,6 +11,19 @@ metadata:
 **We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
 and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** Thank you!
 
+### Saturday excursion to The Getty Center: $22
+*NDLC 2016* is pleased to offer an excursion to the J. Paul Getty Museum, known for its collection and conservation of
+ visual arts, as well as its modern architecture, beautiful gardens, and spectacular views of Los Angeles.
+
+* Round trip bus, depart campus at 9:30am, return by 4:00pm.
+* <a href="http://www.getty.edu/research/exhibitions_events/exhibitions/cave_temples_dunhuang/index.html 
+"taregt="_blank">Timed ticket to special exhibition presented by The Getty Research Institute</a>
+* Attendees will have ample time to explore the museum on their own.
+* Lunch not included. Options include the Getty Center Cafe.
+* Limited to 45 people; first come, first served.
+* Maximum 2 tickets per order.
+* Contact: <a href="mailto:ndlc@library.ucla.edu">ndlc@library.ucla.edu</a>
+    
 ### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
 Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
 

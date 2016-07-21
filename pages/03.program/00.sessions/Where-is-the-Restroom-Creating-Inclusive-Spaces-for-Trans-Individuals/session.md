@@ -1,5 +1,5 @@
 ---
-title: Where is the Restroom? Creating Inclusive Spaces for Trans* Individuals
+title: Where is the Restroom? Creating Inclusive Spaces for Transgender Individuals
 taxonomy:
   format: Individual Presentations
   category: session

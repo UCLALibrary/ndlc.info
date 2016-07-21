@@ -8,6 +8,8 @@ taxonomy:
       title: Head of Cataloging and Archivist, UCLA Ethnomusicology Archive
     - name: Aaron Bittel
       title: Head of Digital Projects and Archivist, UCLA Ethnomusicology Archive
+    - name: Helen Rees
+      title: Professor, Ethnomusicology, and Director of the World Music Center at UCLA
   track:
     - Programming, Outreach, and Advocacy
     

@@ -10,8 +10,6 @@ taxonomy:
       title: Student, St. Catherine University
     - name: María Sánchez-Tucker
       title: Manager of Special Collections and Museum Services, Pueblo City-County Library District, Pueblo, CO 
-    - name: Charlene Garcia Simms
-      title: Special Collections and Genealogy Librarian, Pueblo City-County Library District
   track:
     - Programming, Outreach, and Advocacy
  

@@ -8,6 +8,8 @@ taxonomy:
 	  title: Director of Program Planning and Outreach, NCSU Libraries
     - name: Lauren Di Monte
 	  title: NCSU Libraries Fellow, NCSU Libraries
+	- name: Josephine McRobbie
+      title: NCSU Libraries Fellow
   track: 
 	- Programming, Outreach, and Advocacy
 
