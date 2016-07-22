@@ -43,9 +43,14 @@ uncomment this line, change title to Schedule at a Glance, and move back to at-a
                 <td>UCLA Campus Tour (optional)</td>
             </tr>
             <tr>
+               <td>4:30 PM - 5:30 PM</td>
+               <td><strong>Special Town Hall on Black Lives Matter</strong> - <a href="http://www.library.ucla
+               .edu/yrl"target="_blank">Charles E. Young Research Library</a></td>
+             </tr>
+             <tr>
                 <td>5:00 PM - 7:00 PM</td>
                 <td>
-                    Open House <a href="http://www.library.ucla.edu/powell" target="_blank">Powell Library</a>
+                    Open House <a href="http://www.library.ucla.edu/powell"target="_blank">Powell Library</a>
                 </td>
             </tr>
         </tbody>
@@ -99,7 +104,8 @@ uncomment this line, change title to Schedule at a Glance, and move back to at-a
             <tr>
                 <td>7:00 PM</td>
                 <td>
-                    Reception <a href="http://www.library.ucla.edu/yrl" target="_blank">Charles E. Young Research Library</a>
+                    Reception - <a href="http://www.library.ucla.edu/yrl" target="_blank">Charles E. Young Research 
+                    Library</a>
                 </td>
             </tr>
         </tbody>
