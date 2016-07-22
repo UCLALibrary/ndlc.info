@@ -7,12 +7,11 @@ metadata:
 markdown:
     extra: true
 ---
-## [Updated Schedule](../schedule)
+## [Special Town Hall on Black Lives Matter Added](../program/sessions/Caught-in-the-Crossfire-A-Conversation-on-Libraries-and-Communities-in-Distress)
+
 ## The conference and the waitlist are at capacity.
 
-## [Pre-conference Program Announced&mdash;Register Now](../program/pre-conference)
-
-## <a href="http://www.arl.org/news/arl-news/4046" target="_blank">ARL announces travel award recipients</a>
+## [Pre-conference Registration Closes Monday, July 25 - Register Now](../program/pre-conference)
 
 <p class="lead">The National Diversity in Libraries Conference (NDLC '16), co-sponsored by the UCLA Library and the 
 Association of Research Libraries (ARL), will take place on the UCLA campus on August 10 - 13, 2016. </p>

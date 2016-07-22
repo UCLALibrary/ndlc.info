@@ -17,6 +17,8 @@
         <ul class="sans-bullets">
           <li><h3>{{ header.title }}</h3>
           </li>
+          <li>{{ header.taxonomy.date }}</li>
+          <li>{{ header.taxonomy.location }}</li>
           <li><strong>Presenters</strong>
             <ul class="sans-bullets">
               {% for presenter in header.taxonomy.presenters %}
