@@ -7,9 +7,7 @@ taxonomy:
     - name: Denise Kane
       title: Reference & Instruction Librarian, University of California Riverside
     - name: Julie Mason
-      title: Science Reference Librarian, University of California Riverside   
-    - name: Sara Howard
-      title: Reference Librarian, Wesleyan University
+      title: Science Reference Librarian, University of California Riverside
     - name: Angela Boyd
       title: Librarian for International Organizations / NGO Documents, Psychological & Brain Sciences, University of California Santa Barbara
     - name: Gina Macaluso
