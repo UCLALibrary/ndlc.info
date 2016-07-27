@@ -16,6 +16,6 @@ taxonomy:
 ---
 _The World Music Center at UCLA was created to bring together the Ethnomusicology Archive, the World Musical Instrument Collection, and UCLA Ethnomusicology Publications. The Center provides a unique resource for scholarship, teaching, cultural programming, and community outreach related to the traditional and popular musics of the world. This presentation details two recent and ongoing Center projects that add to the cultural diversity of instruction and musical opportunities for the entire campus and surrounding community._
 
-Presented with TBD
+**Presented with [Out of Context: Library Outreach Through Instructional Art Installations](/program/sessions/Out-of-Context-Library-Outreach-Through-Instructional-Art-Installations)**
 
-Session title TBD
+Session title: **Diversity and Outreach Through Music and Art**

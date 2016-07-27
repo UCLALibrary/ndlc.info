@@ -1077,5 +1077,8 @@ and also iPads specifically.
     float: none;
   }
 }*/
+@media print {
+  a[href]:after {
+    content: none; } }
 
 /*# sourceMappingURL=theme.css.map */
