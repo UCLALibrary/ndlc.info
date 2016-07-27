@@ -8,7 +8,10 @@ taxonomy:
 	  title: Assistant Professor, Master of Library and Information Science Program, St. Catherine University
     - name: Robin F. Kurz
 	  title: Assistant Professor, School of Library and Information Management, Emporia State University
-  subtext: Other panelists TBD
+    - name: Lessa K. Pelayo-Lozada
+      title: Young Readers Librarian, Palos Verdes Library District
+    - name: Candice Mack
+      title:  Senior Librarian, Systemwide Teen Services, Los Angeles Public Library; Immediate Past President, Young Adult Library Services Association
   track: 
 	- Programming, Outreach, and Advocacy
 

@@ -14,6 +14,8 @@ taxonomy:
 	  title: Head, Art and Drama Libraries, University of Washington Libraries
 	- name: Ann Marie Willer
 	  title: Preservation Librarian, Massachusetts Institute of Technology
+	- name: Meshia Anderson
+	  title: Acquisitions Specialist, University of Cincinnati Libraries
   track: 
     - Personnel, Management, and Organization
 	
