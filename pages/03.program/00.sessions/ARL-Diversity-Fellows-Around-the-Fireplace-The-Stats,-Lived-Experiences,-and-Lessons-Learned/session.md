@@ -10,8 +10,6 @@ taxonomy:
 	  title: Library Assistant, Cooley, LLP
 	- name: Mario Macias
 	  title: Librarian, Pierce College
-	- name: Jakilah Mason
-	  title: Library Associate, Gwinnett County Public Library
 	- name: Christian Minter
 	  title: Education Coordinator, National Network of Libraries of Medicine, MidContinental Region
 	- name: Hanni Nabahe

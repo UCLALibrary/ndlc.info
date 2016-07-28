@@ -6,7 +6,7 @@ taxonomy:
   presenters:
     - name: Rebecca Marrall
       title: Discovery Services Librarian, Western Washington University Libraries
-    - name: Nora Burmeister
+    - name: Nora Burmeister*
       title: Circulation Services Professional, Usability & Design Working Group, Western Washington University Libraries
   track:
     - Collections and Access

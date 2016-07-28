@@ -6,7 +6,7 @@ taxonomy:
   presenters:
     - name: Cristela Garcia-Spitz
       title: Digital Library Development Project Manager, ClimateQUAL Implementation Team Co-Chair, UC San Diego Library
-    - name: Heather Hayashi,
+    - name: Heather Hayashi*
       title: Public Services Assistant, ClimateQUAL Implementation Team Member, UC San Diego Library
     - name: Cindy Ingold
       title: Gender Studies and Multicultural Services Librarian, University of Illinois, Urbana-Champaign
@@ -16,7 +16,7 @@ taxonomy:
       title: Associate Professor / Director of Arts & Humanities, University of Colorado Boulder Libraries
     - name: Michael M. Rawls
       title: Budget and Assessment Director, Virginia Commonwealth University Libraries
-    - name: Leslie J. Reynolds
+    - name: Leslie J. Reynolds*
       title: Associate Professor / Senior Associate Dean, University of Colorado Boulder Libraries
   track:
     - Personnel, Management, and Organization

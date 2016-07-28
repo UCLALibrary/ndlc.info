@@ -1,19 +1,15 @@
 ---
 title: Diversity Standards in Action: How Do We Practice & Value Cultural Competencies?
 taxonomy:
-  format: World Cafe method
+  format: Panel
   category: session
   presenters:
     - name: Mario Macías
       title: Librarian, Los Angeles Pierce College
     - name: Melissa Cardenas-Dow
       title: Reference & Instruction Librarian, University of California, Riverside
-    - name: Jenny Yap
-      title: Librarian, Berkeley City College
     - name: Jessica Davila Greene
       title: STEM Librarian, Team Leader, Claremont Colleges Library
-    - name: Eva Rios-Alvarado
-      title: Adjunct Librarian, Mt. SAC, GCC, & ELAC
     - name: Susan C. Luévano
       title: Anthropology, Ethnic, Women and Gender Studies Librarian, California State University Long Beach
     - name: Jayati Chaudhuri

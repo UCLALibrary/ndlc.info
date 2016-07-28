@@ -8,7 +8,7 @@ taxonomy:
 	  title: Art & Architecture Librarian, Miami University
     - name: Josefine Smith
 	  title: Humanities Librarian, Dickinson College
-	- name: Jennifer Natale
+	- name: Jennifer Natale*
 	  title: Academic Resident Librarian, Miami University
 	- name: Christina J. Woo
 	  title: Research Librarian, University of California, Irvine

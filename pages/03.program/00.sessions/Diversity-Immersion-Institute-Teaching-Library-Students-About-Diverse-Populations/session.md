@@ -6,7 +6,7 @@ taxonomy:
   presenters:
     - name: Tahirah Akbar-Williams
       title: Education and Information Studies Librarian, University of Maryland, College Park
-    - name: Cynthia Sorrell
+    - name: Cynthia Sorrell*
       title: Arabic & Persian Studies Librarian, Assistant Manager of Collections University of Maryland, College Park
   track:
     - Personnel, Management, and Organization
