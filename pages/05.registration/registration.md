@@ -8,8 +8,8 @@ metadata:
 ---
 ### The conference and the waitlist are at capacity.
 
-**We’ve had a tremendous response to this conference, and registration for the main conference is now at full capacity 
-and has been closed. (Registration for the August 10 [pre-conference](../program/pre-conference) is still open.)** Thank you!
+**We’ve had a tremendous response to this conference, and registration for the main conference and pre-conference is 
+now at full capacity and has been closed.**
 
 ### Saturday excursion to The Getty Center: $22
 *NDLC 2016* is pleased to offer an excursion to the J. Paul Getty Museum, known for its collection and conservation of
@@ -24,8 +24,8 @@ and has been closed. (Registration for the August 10 [pre-conference](../program
 * Maximum 2 tickets per order.
 * Contact: <a href="mailto:ndlc@library.ucla.edu">ndlc@library.ucla.edu</a>
     
-### <a href="https://oss.ticketmaster.com/aps/uclacto/EN/buy/details/m162830" target="_blank">Pre-conference: $50</a>
-Registrations are handled through UCLA&rsquo;s Central Ticket Office (CTO). You will need to create a CTO account as part of the registration process. <strong>You do not need to register for the NDLC in order to attend this event. </strong></p>
+### Pre-conference
+Pre-conference registration is closed.
 
 ### Cancellation Policy
 

@@ -1,5 +1,5 @@
 ---
-title: Library Diversity Training: From Awareness to Action
+title: Diversity and Anti-Oppression Training: From Awareness to Action
 taxonomy:
   format: Panel
   category: session

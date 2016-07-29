@@ -37,10 +37,6 @@ visible: true
                 <td>Housing check-in opens</td>
             </tr>
             <tr>
-                <td>4:00 PM - 5:00 PM</td>
-                <td>UCLA Campus Tour (optional)</td>
-            </tr>
-            <tr>
                <td>4:30 PM - 5:30 PM</td>
                <td><strong>Special Town Hall on Black Lives Matter</strong> - <a href="http://www.library.ucla.edu/yrl" target="_blank">Charles E. Young Research Library</a></td>
              </tr>
