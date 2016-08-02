@@ -5,7 +5,7 @@ taxonomy:
   category: session
   presenters:
     - name: Lae’l Hughes-Watkins
-      title: University Archivist, Assistant, Kent State University
+      title: University Archivist, Assistant Professor, Kent State University
     - name: Nancy Liliana Godoy-Powell
       title: Librarian and Archivist, Chicano/a Research Collection, Arizona State University Libraries
     - name: Rachel Leket-Mor
