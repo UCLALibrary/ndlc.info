@@ -1,5 +1,5 @@
 ---
-title: Program
+title: Program <a href="program/NDLC_Program.pdf">(Download Printed Program)</a><br />
 body_class: program
 published: true
 metadata:
@@ -8,9 +8,12 @@ metadata:
     author: 'UCLA Library'
 process:
     markdown: true
+    extra: true
     twig: true
 visible: true
 template: sessions
+menu:
+    Program
 content:
     items:
       '@page': /program/sessions
