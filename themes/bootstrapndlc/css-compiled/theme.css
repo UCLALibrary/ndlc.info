@@ -930,9 +930,6 @@ ul.ally li {
   .col-md-9 th:nth-child(-n+2) {
     display: none; }
 
-  .col-md-9 h3 {
-    display: none; }
-
   body.posters .col-md-9 th:before {
     content: "Poster Sessions";
     color: #fff; }
