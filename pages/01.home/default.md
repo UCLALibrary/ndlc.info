@@ -9,7 +9,7 @@ markdown:
 ---
 ## [Special Town Hall on Black Lives Matter Added](../program/sessions/Caught-in-the-Crossfire-A-Conversation-on-Libraries-and-Communities-in-Distress)
 
-## The conference and the waitlist are at capacity.
+## Preview the Program [here](../program/NDLC_Program.pdf). _Attendees will receive a complimentary printed program._
 
 <p class="lead">The National Diversity in Libraries Conference (NDLC '16), co-sponsored by the UCLA Library and the 
 Association of Research Libraries (ARL), will take place on the UCLA campus on August 10 - 13, 2016. </p>
