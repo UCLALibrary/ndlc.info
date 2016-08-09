@@ -11,7 +11,7 @@ taxonomy:
 	- name: Felix Gutierrez
 	  title: Prof. Emeritus of Journalism, USC
 	- name: Liana Stepanyan
-	  title: Assistant Professor (Teaching) of Spanish, USC
+	  title: Associate Professor (Teaching) of Spanish, USC
 	- name: Tyson Gaskill
 	  title: Executive Director, Communications and Events, USC Libraries
 	- name: Anne-Marie Maxwell

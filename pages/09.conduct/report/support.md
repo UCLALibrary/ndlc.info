@@ -11,4 +11,4 @@ template: about
 ---
 # Code of Conduct Alert
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2054tqnO2E_FwLIuSrpQoHWGkoZLdlyRC_Fx9pYZZd9YLrA/viewform?embedded=true#start=embed" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc2054tqnO2E_FwLIuSrpQoHWGkoZLdlyRC_Fx9pYZZd9YLrA/viewform?embedded=true#start=embed" width="760" height="850" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
