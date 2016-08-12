@@ -9,8 +9,8 @@ markdown:
 ---
 ## [Special Town Hall on Black Lives Matter Added](../program/sessions/Caught-in-the-Crossfire-A-Conversation-on-Libraries-and-Communities-in-Distress)
 
-## Preview the Program [here](../program/NDLC_Program.pdf). _Attendees will receive a complimentary printed program._
+## Thank you to the keynote speakers, presenters, attendees, sponsors, and volunteers for making the conference a success!
 
 <p class="lead">The National Diversity in Libraries Conference (NDLC '16), co-sponsored by the UCLA Library and the 
-Association of Research Libraries (ARL), will take place on the UCLA campus on August 10 - 13, 2016. </p>
+Association of Research Libraries (ARL), was held on the UCLA campus on August 10 - 13, 2016. </p>
 Under the theme of “Bridges to Inclusion,” it endeavors to highlight issues related to diversity and inclusion that affect staff, users, and institutions in the library, archive, and museum (LAM) fields. It also aims to articulate the value of and develop strategies for diversity and inclusion in LAMs in order to improve organizational excellence and community engagement.
